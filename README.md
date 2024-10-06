@@ -46,7 +46,7 @@ Ensure you have the following installed:
 
 1. Clone this repository:
     ```bash
-    [git clone https://github.com/Ada890/virtualdev-vr-tools.git](https://github.com/Ada890/VirtualDev-VR-Development-Tools.git)
+    https://github.com/Ada890/VirtualDev-VR-Development-Tools.git
     cd virtualdev-vr-tools
     ```
 
